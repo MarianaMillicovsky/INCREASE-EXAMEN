@@ -53,9 +53,4 @@ gem 'factory_bot_rails'
 gem 'active_model_serializers'
 
 gem 'dalli'
-#gem 'redis-rails'
-#gem 'redis'
-#gem 'hiredis'
-#gem 'sidekiq'
 
-#gem 'rspec-rails'
