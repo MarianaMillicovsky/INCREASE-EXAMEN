@@ -1,7 +1,7 @@
 module Api 
     module V1 
         class CobroSerializer < ApplicationSerializer
-            attributes :id,
+            attributes #:id,
                     #:id_cliente,
                     :cliente_id_api,
                     :dinero_cobrado ,
